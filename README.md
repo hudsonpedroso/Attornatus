@@ -10,13 +10,13 @@ Testes<br />
 
 ## Sumário
 _Links:_<br />
-[Testes TDD]() <br />
-[Estrutura dos pacotes]() <br />
-[Models]() <br />
-[Controller]() <br />
-[Repository]() <br />
-[Service]() <br />
-[Exception]() <br />
+[Testes TDD](https://github.com/hudsonpedroso/Attornatus/blob/main/teste_java/src/test/java/com/dev/app) <br />
+[Estrutura dos pacotes](https://github.com/hudsonpedroso/Attornatus/tree/main/teste_java/src/main/java/com/dev) <br />
+[Models](https://github.com/hudsonpedroso/Attornatus/tree/main/teste_java/src/main/java/com/dev/model) <br />
+[Controllers](https://github.com/hudsonpedroso/Attornatus/tree/main/teste_java/src/main/java/com/dev/controller) <br />
+[Repositorys](https://github.com/hudsonpedroso/Attornatus/tree/main/teste_java/src/main/java/com/dev/repository) <br />
+[Services](https://github.com/hudsonpedroso/Attornatus/tree/main/teste_java/src/main/java/com/dev/service) <br />
+[Exceptions](https://github.com/hudsonpedroso/Attornatus/tree/main/teste_java/src/main/java/com/dev/exceptions) <br />
 
 ## Observações
 _A utilização do banco de dados H2 teve problemas na minha máquina, portanto a aplicação está sem a parte de banco de dados por enquanto._
@@ -27,7 +27,7 @@ O prazo para entrega da avaliação será de até 7 dias após envio da mesma <b
 Encaminhar este documento com as perguntas respondidas e com o link do código público em sua conta do GitHub <br />
 Opcionalmente, caso você consiga fazer o build da aplicação, poderá também informar o link de acesso. 
 
-Link de acesso: https://github.com/hudsonpedroso/desafio-attornatus
+Link de acesso: [Desafio Attornatus](https://github.com/hudsonpedroso/Attornatus)
 
 
 ## Qualidade de código
