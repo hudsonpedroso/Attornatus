@@ -32,12 +32,14 @@ Link de acesso: [Desafio Attornatus](https://github.com/hudsonpedroso/Attornatus
 
 ## Qualidade de código
 
-### Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software? <br />
-R: 	Estrutura e separação das responsabilidades em diferentes pacotes e classes pertinentes, além de usar de método de desenvolvimento guiado por testes (TDD). Assim como refatoramento quando necessário, baseando-se baseando em princípios de Clean Code.
+### 1- Durante a implementação de uma nova funcionalidade de software solicitada, quais critérios você avalia e implementa para garantia de qualidade de software? <br />
+Resposta 1: <br /><br /> 	
+Estrutura e separação das responsabilidades em diferentes pacotes e classes pertinentes, além de usar de método de desenvolvimento guiado por testes (TDD). Assim como refatoramento quando necessário, baseando-se baseando em princípios de Clean Code.
 
 
-### Em qual etapa da implementação você considera a qualidade de software?
-R: 	A qualidade de software deve ser considerada em todas as etapas da implementação, desde o planejamento até o manutenção pós-entrega. Algumas etapas onde é importante enfatizar a qualidade incluem:
+### 2- Em qual etapa da implementação você considera a qualidade de software?
+Resposta 2: <br /><br /> 	
+A qualidade de software deve ser considerada em todas as etapas da implementação, desde o planejamento até o manutenção pós-entrega. Algumas etapas onde é importante enfatizar a qualidade incluem:
 
 _Análise de requisitos:_ é importante definir claramente os requisitos do software para garantir que ele atenda às expectativas do usuário e seja de alta qualidade.
 
