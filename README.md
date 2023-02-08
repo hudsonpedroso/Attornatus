@@ -10,7 +10,7 @@ Testes<br />
 
 ## Sumário
 _Links:_<br />
-[Testes TDD](https://github.com/hudsonpedroso/Attornatus/blob/main/teste_java/src/test/java/com/dev/app) <br />
+[Testes TDD (TestePessoa e TesteEndereco)](https://github.com/hudsonpedroso/Attornatus/blob/main/teste_java/src/test/java/com/dev/app) <br />
 [Estrutura dos pacotes](https://github.com/hudsonpedroso/Attornatus/tree/main/teste_java/src/main/java/com/dev) <br />
 [Models](https://github.com/hudsonpedroso/Attornatus/tree/main/teste_java/src/main/java/com/dev/model) <br />
 [Controllers](https://github.com/hudsonpedroso/Attornatus/tree/main/teste_java/src/main/java/com/dev/controller) <br />
